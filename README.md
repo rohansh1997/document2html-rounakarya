@@ -1,3 +1,4 @@
+- hacktober
 # iPhone X #
 - Page introduces basic iPhone X
 - Comparisons of iPhone X to other iPhones
